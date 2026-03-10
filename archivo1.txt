@@ -1,1 +1,2 @@
 Este es el archivo 1 del laboratorio Git
+++++ Nueva línea agregada al archivo
